@@ -6,7 +6,6 @@
 
 ## Table of Contents:
 
-- [License](#license)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Description](#description)
@@ -18,10 +17,6 @@
 - [Tests](#tests)
 - [Questions](#questions)
 - [Deployed Application](#deployed-application)
-
-## License
-
-This Application is covered by a: ![License](https://img.shields.io/github/license/mgetz34/Read-Me-Generator)
 
 ## Description
 
@@ -71,17 +66,27 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Installation
 
+Open via link below
+
 ## Usage
 
 ![Home Screen](./client/src/images/Screenshot%202023-01-15%20161259.png)
 
 ## Credits
 
+TBD
+
 ## Features
+
+GQL Server Management, MERN stack, User Authentication
 
 ## How to Contribute
 
+Contact Information is below with any suggestions or advice!
+
 ## Tests
+
+N/A
 
 ## Questions
 
