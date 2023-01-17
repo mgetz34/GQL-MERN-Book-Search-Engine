@@ -74,11 +74,14 @@ Open via link below
 
 ## Credits
 
-TBD
+Jenn Marshal: https://github.com/jennnmarshall
+Garrett Anderson: https://github.com/GarrettA01
+Andrew Labrode: https://github.com/AndyLaBorde
+Chandler Baird: https://github.com/cbaird21
 
 ## Features
 
-GQL Server Management, MERN stack, User Authentication
+GQL Server Management, MERN stack, User Authentication, JWT
 
 ## How to Contribute
 
@@ -94,3 +97,5 @@ For any questions, please view my profile at: https://github.com/mgetz34
 My email address is: mgetz340@gmail.com
 
 ## Deployed Application
+
+https://gql-mern-book-search-engine.herokuapp.com/
