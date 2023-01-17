@@ -6,7 +6,7 @@ import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import Navbar from './components/Navbar';
 
-//Create an Apollo Provider to make every request work with the Apollo server.
+// Create an Apollo Provider to make every request work with the Apollo server.
 // const client = new ApolloClient({
 //   uri: '/graphql',
 //   cache: new InMemoryCache(),
